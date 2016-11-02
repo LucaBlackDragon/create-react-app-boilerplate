@@ -1,9 +1,9 @@
 
-# Attenzione
+# Create-React-App Boilerplate
 
-Boilerplate di applicazioni React basato su create-react-app
+A boilerplate based on create-react-app, redux & material-ui
 
-## Tool inclusi:
+## Ingredients so far:
 - [create-react-app](https://github.com/facebookincubator/create-react-app)
 - [redux](http://redux.js.org/)
 - [react-redux](https://github.com/reactjs/react-redux/)
